@@ -31,4 +31,4 @@ msgid "not_logged_in"
 msgstr "Vous n'êtes pas connecté."
 
 msgid "current_time_is"
-msgstr "Nous sommes le %(current_time)s."
+msgstr "Nous sommes le %(21 janv. 2020 à 05:56:28)s."
